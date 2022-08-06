@@ -8,11 +8,11 @@ package introduction1;
 public class HelloWorld1 {
 
 	public static void main(String[] args) {
-		helloWorld();
+		System.out.println(helloWorld("Hello World!"));
 	}
 
-	public static void helloWorld() {
-		System.out.println("Hello World!");
+	public static String helloWorld(String message) {
+		return message;
 	}
 
 }
