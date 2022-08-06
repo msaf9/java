@@ -5,10 +5,12 @@ package introduction1;
  * 
  *         A simple "Hello World!" Java Program.
  */
+
 public class HelloWorld1 {
 
-	public static void main(String[] args) {
-		System.out.println(helloWorld("Hello World!"));
+	public static void print() {
+		String printMessage = helloWorld("Hello World!");
+		System.out.println(printMessage);
 	}
 
 	public static String helloWorld(String message) {
