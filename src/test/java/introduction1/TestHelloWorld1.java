@@ -25,6 +25,7 @@ public class TestHelloWorld1 {
 		System.setOut(standardOut);
 	}
 
+	@SuppressWarnings("static-access")
 	@Test
 	public void testhelloWorld() {
 		assertEquals(helloWorld1.helloWorld("Hello World!"), "Hello World!");
@@ -33,6 +34,7 @@ public class TestHelloWorld1 {
 	@Rule
 	public final SystemOutRule systemOutRule = new SystemOutRule().enableLog();
 
+	@SuppressWarnings("static-access")
 	@Test
 	public void testPrint() {
 		helloWorld1.print();
