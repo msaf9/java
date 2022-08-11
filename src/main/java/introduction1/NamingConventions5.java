@@ -1,9 +1,9 @@
 package introduction1;
 
-public class NamingConventions {
+public class NamingConventions5 {
 
 	public static void main(String[] args) {
-		NamingConventions namingConventions = new NamingConventions();
+		NamingConventions5 namingConventions = new NamingConventions5();
 
 		System.out.println(namingConventions.camelCasingMethodName());
 
