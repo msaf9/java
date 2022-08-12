@@ -20,6 +20,13 @@ public class PrimitiveAndReferenceDataTypes4 extends Enum4_3 implements Referenc
 		for (Cities city : Cities.values()) {
 			System.out.println(Cities.valueOf(city.toString()).ordinal() + 1 + ". " + city);
 		}
+
+		AnnotationClass annotationClass = new AnnotationClass("Name is passed!");
+		if (annotationClass.getClass().isAnnotationPresent(Annotation4_4.class)) {
+			System.out.println("This is Annotation based.");
+		} else {
+			System.out.println("This is not Annotation based.");
+		}
 	}
 
 }
