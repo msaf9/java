@@ -12,9 +12,13 @@ public class Ternary {
 		System.out.println("Know a number is positive or negative");
 		System.out.print("Enter your number (Zero is either positive nor negative):");
 		inputNumber = sc.nextInt();
-		result = inputNumber > 0 ? "Positive Number" : "Negative Number";
+		result = ternary(inputNumber);
 		System.out.println(result);
 
 		sc.close();
+	}
+
+	public static String ternary(int number) {
+		return number > 0 ? "Positive Number" : "Negative Number";
 	}
 }
