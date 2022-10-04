@@ -1,6 +1,6 @@
 package flowControl2;
 
-public class ForLoop {
+public class ForLoop5 {
 
 	public static void main(String[] args) {
 		String[] stringArray = { "Java", "Ruby", "C", "JavaScript" };

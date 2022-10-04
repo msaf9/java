@@ -6,11 +6,11 @@ import java.util.Scanner;
  * @author Sahil Afrid Farookhi A Java program to understand the If and Else
  *         Flow control
  */
-public class IfElse {
+public class IfElse1 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		IfElse ifElse = new IfElse();
+		IfElse1 ifElse = new IfElse1();
 		int inputNumber1, inputNumber2;
 		System.out.print("Enter your first number:");
 		inputNumber1 = sc.nextInt();

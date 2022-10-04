@@ -1,6 +1,6 @@
 package flowControl2;
 
-public class NestedLoops {
+public class NestedLoops7 {
 
 	public static void main(String[] args) {
 		int week = 2, day = 3;
