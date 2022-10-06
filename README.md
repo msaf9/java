@@ -14,7 +14,7 @@ A project to learn Java.
 Welcome to the repository [Java](https://github.com/msaf9/Java)! 
 
 ### Topics
-> WIP
+- [Topics](TOPICS.md)
 
 ## Technologies
 - Java
