@@ -1,6 +1,6 @@
 package methods3;
 
-public class OuterShadowing {
+public class OuterShadowing4_1 {
 	String name = "Outer class";
 
 	public class InnerShadowing {
@@ -8,7 +8,7 @@ public class OuterShadowing {
 
 		public void printMethod() {
 			System.out.println(name);
-			System.out.println(OuterShadowing.this.name);
+			System.out.println(OuterShadowing4_1.this.name);
 		}
 	}
 

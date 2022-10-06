@@ -1,9 +1,9 @@
 package methods3;
 
-public class MethodScopePublicPrivate {
+public class MethodScopePublicPrivate3_2 {
 
 	public static void main(String[] args) {
-		MethodScopePublicPrivate methodScopePublicPrivate = new MethodScopePublicPrivate();
+		MethodScopePublicPrivate3_2 methodScopePublicPrivate = new MethodScopePublicPrivate3_2();
 		System.out.println("To understand global and class scope:");
 		methodScopePublicPrivate.thisIsPublicMethod();
 		methodScopePublicPrivate.thisIsPrivateMethod();

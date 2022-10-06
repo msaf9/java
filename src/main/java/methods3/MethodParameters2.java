@@ -2,7 +2,7 @@ package methods3;
 
 import java.util.Scanner;
 
-public class MethodParameters {
+public class MethodParameters2 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
