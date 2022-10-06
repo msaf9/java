@@ -19,6 +19,6 @@ public class Ternary2 {
 	}
 
 	public static String ternary(int number) {
-		return number > 0 ? "Positive Number" : "Negative Number";
+		return number > 0 ? "Positive Number" : number != 0 ? "Negative Number" : "You have provided Zero";
 	}
 }
