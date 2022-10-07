@@ -26,7 +26,13 @@
    7. [x] Nested Loops
    8. [x] Switch
    9. [x] Break and Continue
-3. [ ] Methods
+3. [x] Methods
+   1. [x] Syntax of Method
+   2. [x] Method Parameters
+   3. [x] Method Scope
+   4. [x] Shadowing
+   5. [x] Method Overloading
+   6. [x] Method Overriding
 4. [ ] Arrays
 5. [ ] OOPS
 6. [ ] String
