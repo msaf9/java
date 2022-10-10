@@ -11,7 +11,7 @@
        4. [x] Annotation
     5. [x] Naming Conventions
     6. [x] Escape Sequence
-    7. [ ] Casting
+    7. [x] Casting
     8. [ ] Operators
     9. [ ] Keywords
     10. [ ] Unicode System
