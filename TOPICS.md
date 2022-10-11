@@ -38,7 +38,7 @@
    2. [ ] What is an Array?
    3. [ ] Internal working of Array
    4. [ ] Dynamic memory allocation
-   5. [ ] Array Input & Output
+   5. [x] Array Input & Output
    6. [ ] Array passing in function
    7. [ ] Multidimensional Array
 5. [ ] OOPS
