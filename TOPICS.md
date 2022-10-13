@@ -1,27 +1,27 @@
 # Java Topics
 
 1. [ ] Introduction
-    1. [x] Hello World
-    2. [x] Variables
-    3. [x] Data Types
-    4. [x] Primitive and Reference Data Types
-       1. [x] Reference Type Class
-       2. [x] Reference Type Interface
-       3. [x] ENUM
-       4. [x] Annotation
-    5. [x] Naming Conventions
-    6. [x] Escape Sequence
-    7. [x] Casting
-    8. [ ] Operators
-    9. [ ] Keywords
-    10. [ ] Unicode System
-    11. [x] Reading Input
+   1. [x] Hello World
+   2. [x] Variables
+   3. [x] Data Types
+   4. [x] Primitive and Reference Data Types
+      1. [x] Reference Type Class
+      2. [x] Reference Type Interface
+      3. [x] ENUM
+      4. [x] Annotation
+   5. [x] Naming Conventions
+   6. [x] Escape Sequence
+   7. [x] Casting
+   8. [ ] Operators
+   9. [ ] Keywords
+   10. [x] Unicode System
+   11. [x] Reading Input
 2. [x] Flow Control
    1. [x] If Else
    2. [x] Ternary
    3. [x] while loop
    4. [x] do while loop
-   5. [x] for loop   
+   5. [x] for loop
    6. [x] for each loop
    7. [x] Nested Loops
    8. [x] Switch
@@ -75,19 +75,19 @@
    2. [ ] What is a Thread in Java?
    3. [ ] Lifecycle of a Thread in Java
    4. [ ] What is Multithreading in Java?
-   5. [ ]  Methods of Multithreading in Java
-9.  [ ] Collection Framework
-    1.  [ ] What is a Java Collection?
-    2.  [ ] What is the Java Collection Framework?
-    3.  [ ] Java Collection Framework Hierarchy 
-    4.  [ ] Java Collections Interface Methods
-    5.  [ ] Java Collections Interface
-    6.  [ ] Java Collection Classes
-    7.  [ ] Collection API Algorithms
-    8.  [ ] Benefits of Java Collections
+   5. [ ] Methods of Multithreading in Java
+9. [ ] Collection Framework
+   1. [ ] What is a Java Collection?
+   2. [ ] What is the Java Collection Framework?
+   3. [ ] Java Collection Framework Hierarchy
+   4. [ ] Java Collections Interface Methods
+   5. [ ] Java Collections Interface
+   6. [ ] Java Collection Classes
+   7. [ ] Collection API Algorithms
+   8. [ ] Benefits of Java Collections
 10. [ ] Regex
-    1.  [ ] Three classes of Regex
-    2.  [ ] Methods
-    3.  [ ] Regex in Java character class
-    4.  [ ] Regex in Java Quantifiers
-    5.  [ ] Regex in Java Metacharacters
+    1. [ ] Three classes of Regex
+    2. [ ] Methods
+    3. [ ] Regex in Java character class
+    4. [ ] Regex in Java Quantifiers
+    5. [ ] Regex in Java Metacharacters
