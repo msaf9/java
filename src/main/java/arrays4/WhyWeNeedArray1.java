@@ -1,6 +1,6 @@
 package arrays4;
 
-public class WhyWeNeedArray {
+public class WhyWeNeedArray1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

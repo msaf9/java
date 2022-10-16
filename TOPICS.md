@@ -39,7 +39,7 @@
    3. [ ] Internal working of Array
    4. [ ] Dynamic memory allocation
    5. [x] Array Input & Output
-   6. [ ] Array passing in function
+   6. [x] Array passing in function
    7. [ ] Multidimensional Array
 5. [ ] OOPS
    1. [ ] Object and Class
