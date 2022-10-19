@@ -53,7 +53,7 @@
    2. [ ] String Creation: string literal
    3. [ ] String Pooling
    4. [ ] String Immutability
-   5. [ ] String Creation: new keyword
+   5. [x] String Creation: new keyword
    6. [ ] String Comparison: == & equals()
    7. [ ] PrintStream Class .toString() Method
    8. [ ] Format Specifiers
