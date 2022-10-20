@@ -13,7 +13,7 @@
    6. [x] Escape Sequence
    7. [x] Casting
    8. [ ] Operators
-   9. [ ] Keywords
+   9. [x] Keywords
    10. [x] Unicode System
    11. [x] Reading Input
 2. [x] Flow Control
