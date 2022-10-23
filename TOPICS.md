@@ -54,7 +54,7 @@
    3. [ ] String Pooling
    4. [ ] String Immutability
    5. [x] String Creation: new keyword
-   6. [ ] String Comparison: == & equals()
+   6. [x] String Comparison: == & equals()
    7. [ ] PrintStream Class .toString() Method
    8. [ ] Format Specifiers
    9. [ ] String Concatenation Operator
