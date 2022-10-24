@@ -12,7 +12,7 @@
    5. [x] Naming Conventions
    6. [x] Escape Sequence
    7. [x] Casting
-   8. [ ] Operators
+   8. [x] Operators
    9. [x] Keywords
    10. [x] Unicode System
    11. [x] Reading Input
