@@ -1,6 +1,6 @@
 # Java Topics
 
-1. [ ] Introduction
+1. [x] Introduction
    1. [x] Hello World
    2. [x] Variables
    3. [x] Data Types
