@@ -25,8 +25,8 @@ Welcome to the repository [Java](https://github.com/msaf9/Java)!
 ## Installation
 ### Get repository
 ```git
-git clone https://github.com/msaf9/Java.git
-cd Java
+git clone https://github.com/msaf9/java.git
+cd java
 ```
 
 ## License
