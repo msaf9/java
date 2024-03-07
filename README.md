@@ -1,14 +1,15 @@
-# Java
+<h1>Java</h1>
 A project to learn Java.
 
-- [Java](#java)
-  - [Introduction](#introduction)
-    - [Topics](#topics)
-  - [Technologies](#technologies)
-  - [Project status](#project-status)
-  - [Installation](#installation)
-    - [Get repository](#get-repository)
-  - [License](#license)
+<h2>Table of contents</h2>
+
+- [Introduction](#introduction)
+  - [Topics](#topics)
+- [Programming Language](#programming-language)
+- [Project status](#project-status)
+- [Installation](#installation)
+  - [Get repository](#get-repository)
+- [License](#license)
 
 ## Introduction
 Welcome to the repository [Java](https://github.com/msaf9/Java)! 
@@ -16,7 +17,7 @@ Welcome to the repository [Java](https://github.com/msaf9/Java)!
 ### Topics
 - [Topics (WIP)](TOPICS.md)
 
-## Technologies
+## Programming Language
 - Java
 
 ## Project status
